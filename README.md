@@ -17,14 +17,6 @@ Backend API for the Street82 dress shop, built with Golang. Handles all the core
 - Mysql
 - Docker
 
-🛠 Setup & Installation:
-1. Clone the repo: `git clone https://github.com/yourusername/street82-backend.git`
-2. Navigate to the directory: `cd street82-backend`
-3. Follow the instructions in `README.md` to get started.
-
-Contributions welcome! 🎉
-
-
 👗 Street82 Frontend 👗
 
 Frontend application for the Street82 dress shop, built with React. Provides a seamless and intuitive shopping experience for users, featuring a beautiful and responsive design.
@@ -41,10 +33,5 @@ Frontend application for the Street82 dress shop, built with React. Provides a s
 - Redux
 - CSS Modules / Styled Components
 - Axios for API Calls
-
-🔧 Setup & Installation:
-1. Clone the repo: `git clone https://github.com/yourusername/street82-frontend.git`
-2. Navigate to the directory: `cd street82-frontend`
-3. Follow the instructions in `README.md` to get started.
 
 Happy coding! 🚀
