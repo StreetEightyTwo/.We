@@ -1,37 +1,25 @@
-# .github
-🌟 Street82: Your ultimate online destination for stylish dresses and fashion-forward trends! 👗✨
 
-🌟 Street82 Backend 🌟
+# About us
 
-Backend API for the Street82 dress shop, built with Golang. Handles all the core functionalities including user authentication, product management, order processing, and more.
+## **About Street82**
 
-🚀 Features:
-- User Authentication & Authorization
-- Product Catalog Management
-- Order Processing & Payment Integration
-- RESTful API Endpoints
-- Optimized for performance and scalability
+Street82 began with a powerful vision: to offer exceptional menswear, womenswear, and activewear without compromising on quality or style. We specialize in upscale casual clothing, believing that comfort is the future of fashion.
 
-📦 Technologies:
-- Go (mux, gorm)
-- Mysql
-- Docker
+## **Our Mission**
 
-👗 Street82 Frontend 👗
+At Street82, we curate each collection with a focus on unique, limited-quantity pieces that embody exclusivity and individuality. From sourcing the finest materials to using cutting-edge technology in our manufacturing process, we ensure every garment is crafted with meticulous attention to detail.
 
-Frontend application for the Street82 dress shop, built with React. Provides a seamless and intuitive shopping experience for users, featuring a beautiful and responsive design.
+## **What Sets Us Apart**
 
-✨ Features:
-- User-friendly Interface
-- Responsive Design for Mobile & Desktop
-- Product Browsing & Search
-- Shopping Cart & Checkout
-- User Account Management
+-   **Premium Quality:**  We pride ourselves on using high-quality materials to ensure durability and comfort in every piece.
+-   **Unique Designs:**  From athleisure essentials to trendy oversized t-shirts, each item in our collection is designed to make a statement.
+-   **Customer Satisfaction:**  We prioritize your satisfaction by offering a seamless shopping experience and exceptional customer service.
+-   **Free Islandwide Delivery:**  Enjoy the convenience of free delivery across the island, ensuring your Street82 favorites reach you promptly.
 
-🎨 Technologies:
-- React
-- Redux
-- CSS Modules / Styled Components
-- Axios for API Calls
+**Same Day Delivery:**  Need your order urgently? Take advantage of our same day delivery service for a swift shopping experience.
 
-Happy coding! 🚀
+## **Visit Us**
+
+Explore our showroom located at Level 2, Shop 5, Havelock City Mall, Colombo 5. Discover why Street82 is your ultimate destination for stylish and comfortable apparel.
+
+Join us on our journey as we continue to innovate and elevate your wardrobe with Street82.
